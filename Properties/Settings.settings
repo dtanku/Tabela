@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Paranumeron.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="fcolor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">42, 42, 42</Value>
+    </Setting>
+    <Setting Name="bcolor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">ControlLightLight</Value>
+    </Setting>
+    <Setting Name="company" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Paranumeron</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
